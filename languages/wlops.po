@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wlops default lang\n"
+"POT-Creation-Date: 2014-08-09 00:04+0100\n"
+"PO-Revision-Date: 2014-08-09 00:04+0100\n"
+"Last-Translator: kuaza <kuaza.ca@gmail.com>\n"
+"Language-Team: kuaza <kuaza.ca@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_;_e\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\wp-"
+"link-or-post-submit\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:122
+msgid "Wlops out click count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:153
+msgid "WordPress link and content submit plugins (same pligg)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:153
+msgid "Wlops"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:197
+msgid "<h3>Plugin info</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:198
+msgid "<strong>Plugin name:</strong> WP Submit a New Story or link."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:199
+msgid ""
+"<strong>Plugin description:</strong> Pligg similar link and share content "
+"plugin. I also was inspired by digg.com"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:200
+msgid "<strong>Plugin version:</strong> v1.0 (first version)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:201
+msgid "<strong>Plugin author:</strong> Selcuk kilic (kuaza)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:202
+msgid ""
+"<strong>Plugin Widget support:</strong> no but, I think for the next version."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:203
+#, php-format
+msgid ""
+"<strong>Plugin support:</strong> <a href='%s' target='_blank'>Support "
+"plugins release page (comments)</a> or this email: kuaza.ca@gmail.com"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:204
+msgid "<strong>Author social profiles:</strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:214
+msgid "<h3>Donate for support</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:229
+msgid "<h4>Thanks for support donation..</h4>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:231
+msgid "<h3><em>Please support add my project link your website</em></h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:233
+msgid "<h3>My other project</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:234
+#, php-format
+msgid "<a href='%s'>Image upload, create collections and share</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:235
+#, php-format
+msgid "<a href='%s'>Latest news and articles. (Turkish)</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:236
+#, php-format
+msgid "<a href='%s'>Only image upload and shared. Simple and basic</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:240
+msgid "<h3>Change log</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:243
+msgid "Release plugins"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:281
+msgid "Update settings for plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:287
+msgid "Add this short code post/page area: [wlops_form]"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:294
+msgid "Public Key for reCAPTCHA"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:296
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:302
+msgid " Create for key: https://www.google.com/recaptcha/admin#createsite"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:300
+msgid "Private Key for reCAPTCHA"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:306
+msgid "Select theme for reCAPTCHA"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:310
+msgid "Clean (default)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:311
+msgid "Red"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:312
+msgid "White"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:313
+msgid "blackglass"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:317
+#, php-format
+msgid "look themes: <a href='%s' target='_blank'>http://piclect.com/142894</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:333
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:335
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:630
+msgid "Title url direct source link for index and or query page (loop)?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:351
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:358
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:618
+msgid "How display wlops images area ?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:375
+msgid "Default link post themes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:379
+msgid "Out for {{post_title}}"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:380
+msgid "Read more <em>{{out_count}}</em>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:384
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:602
+msgid "Wlops Templates label:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:386
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:604
+msgid "Default content (Summary)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:387
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:605
+msgid "Out count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:388
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:606
+msgid "Out redirect url (for count out and redirect page)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:389
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:607
+msgid "List added images"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:390
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:608
+msgid "Post ID"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:391
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:609
+msgid "Post title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:392
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:610
+msgid "site url"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:393
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:611
+msgid "Original source url"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:409
+msgid "css for wlops area"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:413
+msgid "Css for wlops area"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:419
+msgid "Update settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:438
+msgid "Example wlops submit page ;)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:469
+msgid "<h3>Plugins index</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:471
+msgid "<h3>Settings</h3>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:506
+msgid "Wlops options"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:595
+msgid "For post themes label <em>(Leave blank for default)</em>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:622
+msgid "Select"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:638
+msgid "Source url for direct page"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:672
+msgid " - (side by side)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1082
+msgid "Error added content, please try again."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1091
+#, php-format
+msgid ""
+"<div class='eklemebasarili'>Adding content is successful, congratulations."
+"<br /><em><a href='%s' target='_blank'>%s</a></em></div>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1094
+msgid ""
+"<div class='eklemebasarili'>Adding content is successful, congratulations."
+"<br /><em>Will be published after approval.</em></div>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1125
+msgid "Empty reCAPTCHA Public key and Private key"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1129
+#, php-format
+msgid "You have not passed through security: %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1141
+msgid "Not valid url"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1167
+#, php-format
+msgid ""
+"<div class='eklemehatali'>This link was previously added.<br /><em><a "
+"href='%s' target='_blank'>%s</a></em></div>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1239
+msgid "Empty title :/"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1247
+msgid "Empty progress :/"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1295
+msgid "<strong>Submit link</strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1296
+msgid "Article"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1306
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1432
+msgid "<strong>Post title</strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1307
+msgid "Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1309
+msgid "Title for content"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1314
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1446
+msgid "<strong>Post content</strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1322
+msgid ""
+"Please insert reCAPTCHA Public key and Private key there admin wlops setting "
+"page.."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1329
+msgid "Next step"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1379
+msgid "What are you doing here?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1423
+msgid "<strong>Source link:</strong> "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1425
+msgid "<em>Draft link:</em> "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1436
+msgid ""
+"<small><em>Please enter the title of the story you are linking to.</em></"
+"small>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1446
+msgid "<em>(required)</em>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1450
+msgid ""
+"<small><em>Write your own description of the news story you are submitting. "
+"It should be about 2 to 4 sentences long.</em></small>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1452
+msgid ""
+"<small><em>Write your own description of the news story you are submitting.</"
+"em></small>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1458
+msgid "<strong>Tags</strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1461
+msgid "<small><em>Examples: web, programming, free software</em></small>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1466
+msgid "<strong>Category</strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1469
+msgid "<small><em>Please choose the most appropriate category.</em></small>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1476
+msgid "Submit"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1481
+msgid "Upload images for post"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1486
+msgid "Upload now"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1666
+msgid "<div class='hataolustu'>This file type is not supported.</div>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1676
+msgid ""
+"<div class='hataolustu'>Please select the first file image or images :/</div>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-link-or-post-submit/class.WLOPS.php:1720
+#, php-format
+msgid ""
+"Not found post or this post for out link. <a href='%s'>Return home page 10 "
+"seconds after..</a>"
+msgstr ""
